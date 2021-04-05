@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/budet-class/static/css/main.0654dd3d.chunk.css",
+    "main.js": "/budet-class/static/js/main.41371593.chunk.js",
+    "main.js.map": "/budet-class/static/js/main.41371593.chunk.js.map",
+    "runtime-main.js": "/budet-class/static/js/runtime-main.959b325a.js",
+    "runtime-main.js.map": "/budet-class/static/js/runtime-main.959b325a.js.map",
+    "static/js/2.4910cda6.chunk.js": "/budet-class/static/js/2.4910cda6.chunk.js",
+    "static/js/2.4910cda6.chunk.js.map": "/budet-class/static/js/2.4910cda6.chunk.js.map",
+    "static/js/3.6dafee43.chunk.js": "/budet-class/static/js/3.6dafee43.chunk.js",
+    "static/js/3.6dafee43.chunk.js.map": "/budet-class/static/js/3.6dafee43.chunk.js.map",
+    "index.html": "/budet-class/index.html",
+    "static/css/main.0654dd3d.chunk.css.map": "/budet-class/static/css/main.0654dd3d.chunk.css.map",
+    "static/js/2.4910cda6.chunk.js.LICENSE.txt": "/budet-class/static/js/2.4910cda6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.959b325a.js",
+    "static/js/2.4910cda6.chunk.js",
+    "static/css/main.0654dd3d.chunk.css",
+    "static/js/main.41371593.chunk.js"
+  ]
+}
